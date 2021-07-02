@@ -49,7 +49,7 @@ struct CardView: View {
             Spacer()
             
             
-            Text("$69.99")
+            Text("$14.99")
                 .font(.title3)
         }
         .padding()
