@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9C49807D268F2C7B001C38C8 /* TestingGroundsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C49807C268F2C7B001C38C8 /* TestingGroundsApp.swift */; };
-		9C49807F268F2C7B001C38C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C49807E268F2C7B001C38C8 /* ContentView.swift */; };
+		9C49807F268F2C7B001C38C8 /* CardViewTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C49807E268F2C7B001C38C8 /* CardViewTest.swift */; };
 		9C498081268F2C7C001C38C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C498080268F2C7C001C38C8 /* Assets.xcassets */; };
 		9C498084268F2C7C001C38C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C498083268F2C7C001C38C8 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		9C498079268F2C7B001C38C8 /* TestingGrounds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestingGrounds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C49807C268F2C7B001C38C8 /* TestingGroundsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingGroundsApp.swift; sourceTree = "<group>"; };
-		9C49807E268F2C7B001C38C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9C49807E268F2C7B001C38C8 /* CardViewTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardViewTest.swift; sourceTree = "<group>"; };
 		9C498080268F2C7C001C38C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C498083268F2C7C001C38C8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9C498085268F2C7C001C38C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				9C49807C268F2C7B001C38C8 /* TestingGroundsApp.swift */,
-				9C49807E268F2C7B001C38C8 /* ContentView.swift */,
+				9C49807E268F2C7B001C38C8 /* CardViewTest.swift */,
 				9C498080268F2C7C001C38C8 /* Assets.xcassets */,
 				9C498085268F2C7C001C38C8 /* Info.plist */,
 				9C498082268F2C7C001C38C8 /* Preview Content */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C49807F268F2C7B001C38C8 /* ContentView.swift in Sources */,
+				9C49807F268F2C7B001C38C8 /* CardViewTest.swift in Sources */,
 				9C49807D268F2C7B001C38C8 /* TestingGroundsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
